@@ -11,6 +11,10 @@ https://user-images.githubusercontent.com/103626175/190916370-117346ec-f236-4bf7
 
 <br/>
 
+## Commit & Merge Convention
+
+<br />
+
 ## 실행 방법
 
 레포지토리를 `clone` 합니다
@@ -104,5 +108,3 @@ root
 
 
 <br />
-
-
